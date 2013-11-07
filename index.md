@@ -1,7 +1,7 @@
 ---
 layout: page
-title: leeran.me
-tagline: 建设中!
+title: 建设中
+tagline: 敬请期待
 ---
 {% include JB/setup %}
 

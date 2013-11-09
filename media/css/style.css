@@ -19,7 +19,7 @@ body{font-size:14px;word-spacing:1px;
 margin-right:auto;
 	font-family:"Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;color:#000000;background-color:#ffffff;} /*页面标签时间大字设置，页面主背景设置*/
 *{padding:0;margin: 0;border:none;outline:none;}
-a{color:#dd0000;text-decoration:none;} /*主页目录颜色 color:#dd0000>>#FF9900*/
+a{color:#FF9900;text-decoration:none;} /*主页目录颜色 color:#dd0000>>#FF9900*/
 a:hover{color:#333333;text-decoration:underline;}
 hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
 p{padding:.5em 0;}
@@ -126,8 +126,8 @@ text-decoration: none;
 
 .paginator .current-page {
 color: white;
-background: #ff0000;
-}
+background: #FF9900;
+}/*近期文章页数background-color:#ff0000>>#FF9900*/
 
 .paginator a:hover{
 color: white;

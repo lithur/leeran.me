@@ -61,7 +61,7 @@ margin:0;
 }
 
 a {
-color:#b9221f;
+color:#FF9010;  /*红色#b9221f，大量使用，替换为#FF9010*/  
 text-decoration:none;
 }
 
@@ -356,7 +356,7 @@ background-color:#eee;
 .nav>li>a:hover {
 text-decoration:none;
 color:#fff;
-background-color:#b9221f;
+background-color:#FF9010;
 }
 
 .pills {
@@ -448,7 +448,7 @@ display:block;
 
 a.label:hover,.pills .active>a,.pills .active>a:hover {
 color:#fff;
-background-color:#b9221f;
+background-color:#FF9010;
 }
 
 h1 small,h2 small {

@@ -2,14 +2,14 @@ markdown: rdiscount
 permalink: /:title/
 url: http://leeran.me
 name: 秋水时至 百川灌河
-author: 李然
+author: leeran	
 qq: 
-email: leeran@foxmail.com
+email: 
 duoshuo: 
 beian: 
 cnzz: 
-weibo: ravee
-github: lithur
+weibo: 
+github: 
 pygments: true
 safe: true
 paginate: 20

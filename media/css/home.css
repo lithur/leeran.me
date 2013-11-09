@@ -61,12 +61,12 @@ margin:0;
 }
 
 a {
-color:#FF9010;  /*红色#b9221f，大量使用，替换为#FF9010*/  
+color:#FF9900; /*红色#b9221f，大量使用，替换为#FF9900橙色*/
 text-decoration:none;
 }
 
 a:hover {
-color:#771614;
+color:#9010CC; /*红色##771614，替换为#9010CC紫色*/
 text-decoration:none;
 }
 
@@ -249,6 +249,7 @@ border-radius:3px;
 padding:0 3px 2px;
 }
 
+/*以下分别是代码格式的：颜色 背景 边框 内边距*/
 code {
 color:#d14;
 background-color:#D0D0D0;
@@ -356,7 +357,7 @@ background-color:#eee;
 .nav>li>a:hover {
 text-decoration:none;
 color:#fff;
-background-color:#FF9010;
+background-color:#FF9900;
 }
 
 .pills {
@@ -448,7 +449,7 @@ display:block;
 
 a.label:hover,.pills .active>a,.pills .active>a:hover {
 color:#fff;
-background-color:#FF9010;
+background-color:#FF9900;
 }
 
 h1 small,h2 small {

@@ -1,16 +1,16 @@
 markdown: rdiscount
 permalink: /:title/
 url: http://leeran.me
-name: 秋水时至 百川灌河
+name: leeran.me
 author: leeran
 qq: 
 email: leeran.AT.foxmail.com
 duoshuo: 
 beian: 
-cnzz: 
+cnzz: 5721568
 weibo: 1706022087
 github: lithur
 pygments: true
 safe: true
-paginate: 20
-about: "这是关于此博客的介绍，暂时没有太多想说的。"
+paginate: 10
+about: "秋水<br></br>秋水时至，百川灌河。泾流之大，两涘渚崖之间，不辩牛马。于是焉，河伯欣然自喜，以天下之美为尽在己。顺流而东行，至于北海，东面而视，不见水端。于是焉，河伯始旋其面目，望洋向若而叹曰：“野语有之曰：‘闻道百，以为莫己若’者，我之谓也。且夫我尝闻少仲尼之闻，而轻伯夷之义者，始吾弗信。今我睹子之难穷也，吾非至于子之门，则殆矣。吾长见笑于大方之家。”"

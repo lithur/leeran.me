@@ -73,7 +73,7 @@ color: #AAA;
 }
 
 footer a {
-color: #AAA;
+color: #AAA; /*页脚链接字体颜色#888>>#AAA*/
 text-decoration: none;
 }
 

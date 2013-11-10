@@ -8,7 +8,7 @@ comments: no
 
 ----
 
-###相关
+###其他
 
 {% if site.qq %}
 ＱＱ：[{{ site.qq }}](tencent://message/?uin={{ site.qq }})
